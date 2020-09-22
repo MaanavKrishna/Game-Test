@@ -1,0 +1,25 @@
+Visual Studio - Database - Matter.js - P5.js:
+
+Shooting Game & Story Mode:
+
+
+=> Pc = 3
+ 
+=> NPC = 2 , 1 Narrator
+
+=>Story{
+  Part 1:"Build the Golden Egg locater Before going on the expediture"
+  Part 2:"You're now on a expedition to find the Golden Egg which contains a special formula which contains Powers to rule the entire Earth"
+  Part 3:"You have Located the Egg 350 miles north of you through your Golden Egg locater"
+  Part 4:"You're within range to see the Golden Egg Reflecting the sun light but only to see that two other people are coming towards it"
+  Part 5:"You get closer"
+  Part 6:"You could see them marching"
+  Part 7:"You shoot at them"
+  Part 8:"They shoot at you back"
+  Part 9:"They Run away while you shoot to live another day"
+  Part 10:"You touch the Golden Egg Jumging up and down on you Victory"
+  Part 11"You Get transformed in to a immortal being"
+                                                                                          To Be Continued
+  
+  }
+
